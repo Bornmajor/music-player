@@ -3,7 +3,7 @@ Andriod/iOs local Music player  application used to play local music files.
 
 # Features
 1. Access local music files .
-2. Has basic player features play,pause,skip,seek
+2. Has basic player features e.g  play,pause,skip,seek...
 3. Allow shuffling and repeat modes(Current track or entire queue).
 
 # Libraries
