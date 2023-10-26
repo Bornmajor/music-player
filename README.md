@@ -13,6 +13,11 @@ Andriod/iOs local Music player  application used to play local music files.
 # Usage and installation
 App download link -> https://expo.dev/accounts/bornmaja/projects/music-player/builds/55992aa2-f8ee-4b9a-9504-53dacaeb95bf
 
+### Project
+To use this project :
+1. Install all needed libraries outlined above.
+2. Create android development build with expo.
+
 
 # Screenshots
 
